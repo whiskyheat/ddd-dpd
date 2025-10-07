@@ -16,5 +16,7 @@ Die Datei `bewertungen.csv` enthält die Bewertungen der jeweiligen bewertenden 
 
 Die Datei `streams.csv`enthält eine Übersicht der berücksichtigten Streams.
 
+Die Datei `uebernachtungen.csv` enthält Daten zu den Übernachtungsfolgen, die genutzt wurden um "Murphy's Law" zu überprüfen.
+
 ## Sonstiges
 https://github.com/ihabunek/twitch-dl hat eine Funktion zum herunterladen von chats, wenn das video noch verfügbar ist.
