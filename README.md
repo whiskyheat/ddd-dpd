@@ -1,4 +1,4 @@
-# Das Dilletantische Duett - Das Perfekte Dinner
+# Das Dilettantische Duett - Das Perfekte Dinner
 
 ## Verlorene Folgen/Wochen
 Die ersten Reacts scheinen leider verloren zu sein.
