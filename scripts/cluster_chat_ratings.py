@@ -95,5 +95,5 @@ if __name__ == "__main__":
     clusters = cluster(ratings)
 
     for cluster in clusters:
-        if is_valid_cluster(cluster):
-            describe(cluster)
+        # if is_valid_cluster(cluster):
+        describe(cluster)
